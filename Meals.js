@@ -4,8 +4,9 @@ import { Fragment } from "react";
 const Meals=()=>{
  return(
     <Fragment>
-        <AvailableMeals />
         <MealSummary />
+        <AvailableMeals />
+        
     </Fragment>
  )
 }

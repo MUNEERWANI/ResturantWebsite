@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './MealSummary.Module.css'
+import classes from './MealSummary.module.css'
 const MealSummary=()=>{
     return(
         <section className={classes.summary}>
@@ -12,6 +12,9 @@ const MealSummary=()=>{
       <p>
         All our meals are cooked with high-quality ingredients, just-in-time and
         of course by experienced chefs!
+      </p>
+      <p>
+        India's number 1 Food ordering website
       </p>
             
         </section>
