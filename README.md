@@ -1,2 +1,1 @@
-<h1 backGround-color={red}>ResturantWebsite</h1>
-
+<h1 style="background-color: red;">RestaurantWebsite</h1>
