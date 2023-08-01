@@ -1,2 +1,2 @@
-<h1>ResturantWebsite</h1>
-<mark>lennffdknkfdndfkdfklndfkl</mark>
+<h1 backGround-color={red}>ResturantWebsite</h1>
+
